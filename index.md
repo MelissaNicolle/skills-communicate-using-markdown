@@ -5,3 +5,6 @@ Make a markdown
 $Var="Hello World";
 echo $Var; 
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
